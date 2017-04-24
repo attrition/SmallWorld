@@ -509,6 +509,7 @@ public class Game : MonoBehaviour
                     {
                         bestRoute.fromStation = fromStation;
                         bestRoute.toStation = toStation;
+                        bestPeeps = fromStation.peeps[toStation.id];
                         found = true;
                     }
                 }
