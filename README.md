@@ -1,3 +1,5 @@
 # Small World Tycoon!
 
-WIP
+Made for LD38 "Small World"
+
+[Play Here](http://astudyinpixels.com/ld38)
